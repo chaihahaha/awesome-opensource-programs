@@ -1,4 +1,4 @@
-### Awesome Opensource Programs
+# Awesome Opensource Programs
 
   1. **freepiano** - ([Repo](https://github.com/Energy0124/freepiano)) 让电脑键盘变成虚拟钢琴
 
@@ -64,73 +64,71 @@
 
   1. **vector-im/element-web** - ([Repo](https://github.com/vector-im/element-web), [Home](https://element.io/)) 区块链去中心化matrix协议聊天软件
 
-  1. **rocket.chat** - ([Repo](), [Home]()) 支持自建服务器和latex的聊天软件
+  1. **rocket.chat** - ([Repo](https://github.com/RocketChat/Rocket.Chat), [Home](https://www.rocket.chat/)) 支持自建服务器和latex的聊天软件
 
-  1. **tox.chat** - ([Repo](), [Home]()) 无服务器去中心化P2P加密聊天软件
+  1. **tox.chat** - ([Repo](https://github.com/evilcorpltd/aTox), [Home](https://tox.chat/)) 无服务器去中心化P2P加密聊天软件
 
-  1. **LBRY** - ([Repo](), [Home]()) 区块链视频共享软件
+  1. **LBRY** - ([Repo](https://github.com/lbryio/lbry-desktop), [Home](https://lbry.com/)) 区块链视频共享软件
 
-  1. **zeronet** - ([Repo](), [Home]()) 区块链去中心化网络浏览器
+  1. **zeronet** - ([Repo](https://github.com/HelloZeroNet/ZeroNet), [Home](https://zeronet.io/zh)) 区块链去中心化网络浏览器
 
-  1. **obs-studio** - ([Repo](), [Home]()) 录屏
+  1. **obs-studio** - ([Repo](https://github.com/obsproject/obs-studio), [Home](https://obsproject.com/)) 录屏
 
-  1. **musicbee** - ([Repo](), [Home]()) 电脑音乐播放器
+  1. **phonograph** - ([Repo](https://github.com/kabouzeid/Phonograph)) 安卓音乐播放器
 
-  1. **phonograph** - ([Repo](), [Home]()) 安卓音乐播放器
+  1. **dawdreamer** - ([Repo](https://github.com/DBraun/DawDreamer)) 数字音频工作站（python）
 
-  1. **dawdreamer** - ([Repo](), [Home]()) 数字音频工作站（python）
+  1. **supercollider** - ([Repo](https://github.com/supercollider/supercollider), [Home](https://supercollider.github.io/)) 音乐编程软件
 
-  1. **supercollider** - ([Repo](), [Home]()) 音乐编程软件
+  1. **lmms** - ([Repo](https://github.com/LMMS/lmms), [Home](https://lmms.io/lsp/)) 数字音频工作站
 
-  1. **lmms** - ([Repo](), [Home]()) 数字音频工作站
+  1. **timidity** - ([Repo](https://github.com/feross/timidity), [Home](https://timidity.sourceforge.net/)) 合成器软件
 
-  1. **timidity** - ([Repo](), [Home]()) 合成器软件
+  1. **audacity** - ([Repo](https://github.com/audacity/audacity), [Home](https://www.audacityteam.org/)) 录音音频编辑器
 
-  1. **audacity** - ([Repo](), [Home]()) 录音音频编辑器
+  1. **musescore** - ([Repo](https://github.com/musescore/MuseScore), [Home](https://musescore.org/zh-hans/download)) 乐谱软件
 
-  1. **musescore** - ([Repo](), [Home]()) 乐谱软件
+  1. **tuxguitar** - ([Repo](https://sourceforge.net/projects/tuxguitar/)) guitar pro开源平替，支持gp5格式的吉他谱
 
-  1. **tuxguitar** - ([Repo](), [Home]()) guitar pro开源平替，支持gp5格式的吉他谱
+  1. **geogebra** - ([Repo](https://github.com/geogebra/geogebra), [Home](https://www.geogebra.org/)) 开源几何画板数学软件
 
-  1. **geogebra** - ([Repo](), [Home]()) 开源几何画板数学软件
+  1. **mathics** - ([Repo](https://github.com/mathics/Mathics), [Home](https://mathics.org/)) 符号计算数学软件，mathematica平替
 
-  1. **mathics** - ([Repo](), [Home]()) 符号计算数学软件，mathematica平替
+  1. **gnu octave** - ([Repo](https://github.com/gnu-octave/octave), [Home](https://gnu-octave.github.io/index)) 数值计算数学软件，matlab平替
 
-  1. **gnu octave** - ([Repo](), [Home]()) 数值计算数学软件，matlab平替
+  1. **xournalpp** - ([Repo](https://github.com/xournalpp/xournalpp), [Home](https://xournalpp.github.io/)) pdf手写笔记软件
 
-  1. **xournalpp** - ([Repo](), [Home]()) pdf手写笔记软件
+  1. **vnote** - ([Repo](https://github.com/vnotex/vnote), [Home](https://www.vnote.info/)) markdown笔记软件（桌面端）
 
-  1. **vnote** - ([Repo](), [Home]()) markdown笔记软件（桌面端）
+  1. **markor** - ([Repo](https://github.com/gsantner/markor)) 安卓markdown编辑器
 
-  1. **markor** - ([Repo](), [Home]()) 安卓markdown编辑器
+  1. **marktext** - ([Repo](https://github.com/marktext/marktext)) markdown编辑器（桌面端）
 
-  1. **marktext** - ([Repo](), [Home]()) markdown编辑器（桌面端）
+  1. **joplin** - ([Repo](https://github.com/laurent22/joplin), [Home](https://joplinapp.org/)) evernote平替（全平台）
 
-  1. **joplin** - ([Repo](), [Home]()) evernote平替（全平台）
+  1. **JabRef** - ([Repo](https://github.com/JabRef/jabref), [Home](http://www.jabref.org/)) 文献管理
 
-  1. **JabRef** - ([Repo](), [Home]()) 文献管理
+  1. **kiwix** - ([Repo](https://github.com/kiwix/kiwix-desktop), [Home](https://kiwix.org/en/)) 离线维基阅读器
 
-  1. **kiwix** - ([Repo](), [Home]()) 离线维基阅读器
+  1. **anki** - ([Repo](https://github.com/ankitects/anki/), [Home](https://apps.ankiweb.net/)) 背单词软件
 
-  1. **anki** - ([Repo](), [Home]()) 背单词软件
+  1. **x64dbg** - ([Repo](https://github.com/x64dbg/x64dbg), [Home](https://x64dbg.com/)) 二进制debug软件
 
-  1. **x64dbg** - ([Repo](), [Home]()) 二进制debug软件
+  1. **ImHex** - ([Repo](https://github.com/WerWolv/ImHex), [Home](https://imhex.werwolv.net/)) Hex码编辑器
 
-  1. **ImHex** - ([Repo](), [Home]()) Hex码编辑器
+  1. **ResEdit** - ([Repo](https://github.com/jcfr/ResEdit), [Home](https://sourceforge.net/projects/resedit-portable/)) 二进制文件编辑器
 
-  1. **ResEdit** - ([Repo](), [Home]()) 二进制文件编辑器
+  1. **powertoys** - ([Repo](https://github.com/microsoft/PowerToys)) 工具软件集
 
-  1. **powertoys** - ([Repo](), [Home]()) 工具软件集
+  1. **ffmpeg** - ([Repo](https://github.com/FFmpeg/FFmpeg), [Home](https://ffmpeg.org/)) 音视频编辑
 
-  1. **ffmpeg** - ([Repo](), [Home]()) 音视频编辑
+  1. **draw.io** - ([Repo](https://github.com/jgraph/drawio), [Home](https://www.draw.io/)) 画原理图，流程图，UML图等
 
-  1. **draw.io** - ([Repo](), [Home]()) 画原理图，流程图，UML图等
+  1. **f-droid** - ([Repo](https://github.com/f-droid/fdroidclient), [Home](https://f-droid.org/)) 安卓开源软件应用商店
 
-  1. **f-droid** - ([Repo](), [Home]()) 安卓开源软件应用商店
+  1. **wireshark** - ([Repo](https://github.com/wireshark/wireshark), [Home](https://www.wireshark.org/download.html)) 抓包工具，好孩子不要用
 
-  1. **wireshark** - ([Repo](), [Home]()) 抓包工具，好孩子不要用
-
-  1. **ghidra** - ([Repo](), [Home]()) 美国国安局开发的逆向工程软件，好孩子不要用
+  1. **ghidra** - ([Repo](https://github.com/NationalSecurityAgency/ghidra)) 美国国安局开发的逆向工程软件，好孩子不要用
 
   1. **filezilla** - ([Repo](), [Home]()) ftp客户端
 
