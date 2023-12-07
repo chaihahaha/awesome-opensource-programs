@@ -80,6 +80,8 @@
 
   1. **auxio** - ([Repo](https://github.com/OxygenCobalt/Auxio), [Home](https://f-droid.org/packages/org.oxycblt.auxio/)) 安卓音乐播放器
 
+  1. **metro** - ([Repo](https://github.com/MuntashirAkon/Metro), [Home](https://f-droid.org/en/packages/io.github.muntashirakon.Music/)) 安卓音乐播放器
+
   1. **dawdreamer** - ([Repo](https://github.com/DBraun/DawDreamer)) 数字音频工作站（python）
 
   1. **supercollider** - ([Repo](https://github.com/supercollider/supercollider), [Home](https://supercollider.github.io/)) 音乐编程软件
