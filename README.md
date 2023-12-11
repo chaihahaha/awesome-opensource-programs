@@ -94,7 +94,7 @@
 
   1. **musescore** - ([Repo](https://github.com/musescore/MuseScore), [Home](https://musescore.org/zh-hans/download)) 乐谱软件
 
-  1. **tuxguitar** - ([Repo](https://sourceforge.net/projects/tuxguitar/)) guitar pro开源平替，支持gp5格式的吉他谱
+  1. **tuxguitar** - ([Repo](https://github.com/helge17/tuxguitar)) guitar pro开源平替，支持gp5格式的吉他谱
 
   1. **geogebra** - ([Repo](https://github.com/geogebra/geogebra), [Home](https://www.geogebra.org/)) 开源几何画板数学软件
 
