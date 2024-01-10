@@ -72,6 +72,8 @@
 
   1. **zeronet** - ([Repo](https://github.com/HelloZeroNet/ZeroNet), [Home](https://zeronet.io/zh)) 区块链去中心化网络浏览器
 
+  1. **amethyst** - ([Repo](https://github.com/vitorpamplona/amethyst), [Home](https://nostr.com)) 区块链去中心化nostr协议类twitter社交平台
+
   1. **obs-studio** - ([Repo](https://github.com/obsproject/obs-studio), [Home](https://obsproject.com/)) 录屏
 
   1. **foobar2000** - ([Repo](https://www.foobar2000.org)) 音乐播放器
