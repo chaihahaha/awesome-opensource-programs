@@ -78,7 +78,7 @@
 
   1. **foobar2000** - ([Repo](https://www.foobar2000.org)) 音乐播放器
 
-  1. **phonograph** - ([Repo](https://github.com/kabouzeid/Phonograph)) 安卓音乐播放器
+  1. **phonograph+** - ([Repo](https://github.com/chr56/Phonograph_Plus)) 安卓音乐播放器
 
   1. **auxio** - ([Repo](https://github.com/OxygenCobalt/Auxio), [Home](https://f-droid.org/packages/org.oxycblt.auxio/)) 安卓音乐播放器
 
