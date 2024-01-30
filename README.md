@@ -76,7 +76,7 @@
 
   1. **obs-studio** - ([Repo](https://github.com/obsproject/obs-studio), [Home](https://obsproject.com/)) 录屏
 
-  1. **foobar2000** - ([Repo](https://www.foobar2000.org)) 音乐播放器
+  1. **musikcube** - ([Repo](https://github.com/clangen/musikcube)) 音乐播放器
 
   1. **phonograph+** - ([Repo](https://github.com/chr56/Phonograph_Plus)) 安卓音乐播放器
 
