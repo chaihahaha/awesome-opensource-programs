@@ -30,6 +30,8 @@
 
   1. **goldendict** - ([Repo](https://github.com/goldendict/goldendict), [Home](http://www.goldendict.org/)) 开源词典软件，支持mdict词库（可以去pdawiki论坛下载）
 
+  1. **brave** - ([Repo](https://github.com/brave/brave-browser), [Home](https://try.bravesoftware.com/)) 开源浏览器
+
   1. **flameshot** - ([Repo](https://github.com/flameshot-org/flameshot), [Home](https://flameshot.org/)) 支持截图悬浮显示的截图工具
 
   1. **llama.cpp** - ([Repo](https://github.com/ggerganov/llama.cpp)) 本地高速运行开源大模型
