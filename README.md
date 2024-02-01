@@ -76,7 +76,9 @@
 
   1. **obs-studio** - ([Repo](https://github.com/obsproject/obs-studio), [Home](https://obsproject.com/)) 录屏
 
-  1. **musikcube** - ([Repo](https://github.com/clangen/musikcube)) 音乐播放器
+  1. **strawberry** - ([Repo](https://github.com/strawberrymusicplayer/strawberry), [Home](https://www.strawberrymusicplayer.org)) 音乐播放器
+
+  1. **musikcube** - ([Repo](https://github.com/clangen/musikcube)) 黑客风音乐播放器
 
   1. **phonograph+** - ([Repo](https://github.com/chr56/Phonograph_Plus)) 安卓音乐播放器
 
