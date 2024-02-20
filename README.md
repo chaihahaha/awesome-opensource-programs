@@ -36,6 +36,8 @@
 
   1. **llama.cpp** - ([Repo](https://github.com/ggerganov/llama.cpp)) 本地高速运行开源大模型
 
+  1. **maid app** - ([Repo](https://github.com/Mobile-Artificial-Intelligence/maid)) 安卓移动端本地运行开源大模型
+
   1. **stable diffusion webui** - ([Repo](https://github.com/AUTOMATIC1111/stable-diffusion-webui)) 本地运行生成式AI绘画
 
   1. **wavedrome** - ([Repo](https://github.com/wavedrom/wavedrom)) 时序示意图绘制
