@@ -108,6 +108,8 @@
 
   1. **mathics** - ([Repo](https://github.com/mathics/Mathics), [Home](https://mathics.org/)) 符号计算数学软件，mathematica平替
 
+  1. **sagemath** - ([Repo](https://github.com/sagemath/sage), [Home](https://www.sagemath.org)) 符号计算数学软件，支持GAP system的抽象代数功能，mathematica平替
+
   1. **gnu octave** - ([Repo](https://github.com/gnu-octave/octave), [Home](https://gnu-octave.github.io/index)) 数值计算数学软件，matlab平替
 
   1. **xournalpp** - ([Repo](https://github.com/xournalpp/xournalpp), [Home](https://xournalpp.github.io/)) pdf手写笔记软件
