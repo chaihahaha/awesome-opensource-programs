@@ -62,6 +62,10 @@
 
   1. **meshlab** - ([Repo](https://github.com/cnr-isti-vclab/meshlab), [Home](https://www.meshlab.net/)) 3D模型编辑器
 
+  1. **freecad** - ([Repo](https://github.com/FreeCAD/FreeCAD), [Home](https://www.freecad.org)) CAD模型编辑器
+
+  1. **openscad** - ([Repo](https://github.com/openscad/openscad), [Home](https://openscad.org/)) 生成CAD模型编程语言和开发环境
+
   1. **easyrpg** - ([Repo](https://github.com/EasyRPG/Player), [Home](https://easyrpg.org/player/downloads/)) rpgmaker2000游戏模拟器
 
   1. **piccolo** - ([Repo](https://github.com/BoomingTech/Piccolo), [Home](https://www.piccoloengine.com/)) 极简游戏引擎
