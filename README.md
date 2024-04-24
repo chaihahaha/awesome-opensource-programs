@@ -64,7 +64,11 @@
 
   1. **freecad** - ([Repo](https://github.com/FreeCAD/FreeCAD), [Home](https://www.freecad.org)) CAD模型编辑器
 
-  1. **openscad** - ([Repo](https://github.com/openscad/openscad), [Home](https://openscad.org/)) 生成CAD模型编程语言和开发环境
+  1. **openscad** - ([Repo](https://github.com/openscad/openscad), [Home](https://openscad.org/)) 生成CAD模型的编程语言和开发环境
+
+  1. **qcad** - ([Repo](https://github.com/qcad/qcad)) 2D CAD编辑器
+
+  1. **blender** - ([Repo](https://github.com/blender/blender), [Home](https://www.blender.org/)) 生成CAD模型编程语言和开发环境
 
   1. **easyrpg** - ([Repo](https://github.com/EasyRPG/Player), [Home](https://easyrpg.org/player/downloads/)) rpgmaker2000游戏模拟器
 
