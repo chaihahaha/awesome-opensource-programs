@@ -58,6 +58,8 @@
 
   1. **aseprite** - ([Repo](https://github.com/aseprite/aseprite), [Home](https://www.aseprite.org/)) 像素画绘画软件
 
+  1. **inkscape** - ([Repo](https://github.com/inkscape/inkscape), [Home](https://www.inkscape.org/)) 2D绘画软件
+
   1. **goxel** - ([Repo](https://github.com/guillaumechereau/goxel), [Home](https://goxel.xyz/)) 体素编辑器
 
   1. **meshlab** - ([Repo](https://github.com/cnr-isti-vclab/meshlab), [Home](https://www.meshlab.net/)) 3D模型编辑器
