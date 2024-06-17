@@ -38,6 +38,8 @@
 
   1. **maid app** - ([Repo](https://github.com/Mobile-Artificial-Intelligence/maid)) 安卓移动端本地运行开源大模型
 
+  1. **ChatterUI** - ([Repo](https://github.com/Vali-98/ChatterUI)) 安卓移动端本地运行开源大模型
+
   1. **stable diffusion webui** - ([Repo](https://github.com/AUTOMATIC1111/stable-diffusion-webui)) 本地运行生成式AI绘画
 
   1. **wavedrome** - ([Repo](https://github.com/wavedrom/wavedrom)) 时序示意图绘制
@@ -53,6 +55,10 @@
   1. **misaka translator** - ([Repo](https://github.com/hanmin0822/MisakaTranslator/)) galgame翻译器
 
   1. **luna translator** - ([Repo](https://github.com/HIllya51/LunaTranslator)) galgame翻译器（python）
+
+  1. **ONS阅读器** - ([Repo](https://github.com/YuriSizuku/OnscripterYuri)) 互动小说阅读器
+
+  1. **uEmuera** - ([Repo](https://github.com/xerysherry/uEmuera)) era文字冒险游戏引擎
 
   1. **krita** - ([Repo](https://github.com/KDE/krita), [Home](https://krita.org/en/)) 绘画软件
 
