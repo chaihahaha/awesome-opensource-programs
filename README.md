@@ -10,7 +10,7 @@
 
   1. **motrix** - ([Repo](https://github.com/agalwood/Motrix)) 开源高速下载器
 
-  1. **free download manager** - ([Repo](http://svn.code.sf.net/p/freedownload/code/trunc), [Home](https://www.freedownloadmanager.org/)) 非常耐用的下载器，几乎不会因为网络原因导致下载失败
+  1. **free download manager3.9** - ([Repo](http://svn.code.sf.net/p/freedownload/code/trunc), [Home](https://www.freedownloadmanager.org/)) 非常耐用的下载器，几乎不会因为网络原因导致下载失败，最后开源版本为3.9
 
   1. **trime** - ([Repo](https://github.com/osfans/trime)) 高度可定制手机输入法
 
