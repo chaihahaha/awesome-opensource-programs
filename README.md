@@ -12,6 +12,8 @@
 
   1. **free download manager3.9** - ([Repo](http://svn.code.sf.net/p/freedownload/code/trunc), [Home](https://www.freedownloadmanager.org/)) 非常耐用的下载器，几乎不会因为网络原因导致下载失败，最后开源版本为3.9
 
+  1. **LocalSend** - ([Repo](https://github.com/localsend/localsend)) 手机热点/局域网高速文件传输
+
   1. **trime** - ([Repo](https://github.com/osfans/trime)) 高度可定制手机输入法
 
   1. **rime** - ([Repo](https://github.com/rime/weasel)) 高度可定制电脑输入法
