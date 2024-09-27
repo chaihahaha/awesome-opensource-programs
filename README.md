@@ -30,6 +30,8 @@
 
   1. **sumatrapdf** - ([Repo](https://github.com/sumatrapdfreader/sumatrapdf), [Home](https://www.sumatrapdfreader.org/free-pdf-reader)) windows电子书阅读器
 
+  1. **RTranslator** - ([Repo](https://github.com/niedev/RTranslator)) 开源AI翻译软件，内置离线AI，支持实时语音和文本翻译
+
   1. **goldendict** - ([Repo](https://github.com/goldendict/goldendict), [Home](http://www.goldendict.org/)) 开源词典软件，支持mdict词库（可以去pdawiki论坛下载）
 
   1. **brave** - ([Repo](https://github.com/brave/brave-browser), [Home](https://try.bravesoftware.com/)) 开源浏览器
