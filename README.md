@@ -6,6 +6,9 @@
 
   1. **jpegview** - ([Repo](https://github.com/sylikc/jpegview)) 极简图片查看器，启动速度比win10自带的快几百倍
 
+ 1. **OpenCamera** - ([Repo](https://sourceforge.net/projects/opencamera/)) 开源安卓相机APP，支持保存无损RAW格式，HDR等
+
+
   1. **7zip** - ([Repo](https://sourceforge.net/projects/sevenzip/files/7-Zip/), [Home](https://7-zip.org/)) 压缩软件
 
   1. **motrix** - ([Repo](https://github.com/agalwood/Motrix)) 开源高速下载器
