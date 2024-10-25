@@ -103,6 +103,8 @@
 
   1. **obs-studio** - ([Repo](https://github.com/obsproject/obs-studio), [Home](https://obsproject.com/)) 录屏
 
+  1. **shortcut** - ([Repo](https://github.com/mltframework/shotcut), [Home](https://www.shotcut.org/)) 视频编辑器
+
   1. **strawberry** - ([Repo](https://github.com/strawberrymusicplayer/strawberry), [Home](https://www.strawberrymusicplayer.org)) 音乐播放器
 
   1. **musikcube** - ([Repo](https://github.com/clangen/musikcube)) 黑客风音乐播放器
