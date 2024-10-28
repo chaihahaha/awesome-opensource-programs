@@ -103,7 +103,7 @@
 
   1. **obs-studio** - ([Repo](https://github.com/obsproject/obs-studio), [Home](https://obsproject.com/)) 录屏
 
-  1. **shortcut** - ([Repo](https://github.com/mltframework/shotcut), [Home](https://www.shotcut.org/)) 视频编辑器
+  1. **coriander播放器** - ([Repo](https://github.com/Ferry-200/coriander_player)) windows音乐播放器
 
   1. **strawberry** - ([Repo](https://github.com/strawberrymusicplayer/strawberry), [Home](https://www.strawberrymusicplayer.org)) 音乐播放器
 
@@ -162,6 +162,8 @@
   1. **powertoys** - ([Repo](https://github.com/microsoft/PowerToys)) 工具软件集
 
   1. **ffmpeg** - ([Repo](https://github.com/FFmpeg/FFmpeg), [Home](https://ffmpeg.org/)) 音视频编辑
+
+ 1. **shotcut** - ([Repo](https://github.com/mltframework/shotcut), [Home](https://www.shotcut.org/)) 视频编辑器
 
   1. **draw.io** - ([Repo](https://github.com/jgraph/drawio), [Home](https://www.draw.io/)) 画原理图，流程图，UML图等
 
