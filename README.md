@@ -159,6 +159,8 @@
 
   1. **ResEdit** - ([Repo](https://github.com/jcfr/ResEdit), [Home](https://sourceforge.net/projects/resedit-portable/)) 二进制文件编辑器
 
+1. **connectbot** - ([Repo](https://github.com/connectbot/connectbot), [Home](https://connectbot.org)) 安卓ssh远程连接客户端。支持复制文本，系统原生输入法，悬浮特殊符号，自动重连，密钥管理
+
   1. **powertoys** - ([Repo](https://github.com/microsoft/PowerToys)) 工具软件集
 
   1. **ffmpeg** - ([Repo](https://github.com/FFmpeg/FFmpeg), [Home](https://ffmpeg.org/)) 音视频编辑
