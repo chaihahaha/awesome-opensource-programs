@@ -87,6 +87,8 @@
 
   1. **easyrpg** - ([Repo](https://github.com/EasyRPG/Player), [Home](https://easyrpg.org/player/downloads/)) rpgmaker2000游戏模拟器
 
+  1. **retroarch** - ([Repo](https://github.com/libretro/RetroArch), [Home](https://www.retroarch.com/)) 经典老游戏机模拟器
+
   1. **piccolo** - ([Repo](https://github.com/BoomingTech/Piccolo), [Home](https://www.piccoloengine.com/)) 极简游戏引擎
 
   1. **vector-im/element-web** - ([Repo](https://github.com/vector-im/element-web), [Home](https://element.io/)) 区块链去中心化matrix协议聊天软件
