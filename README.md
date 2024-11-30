@@ -177,8 +177,12 @@
 
   1. **ghidra** - ([Repo](https://github.com/NationalSecurityAgency/ghidra)) 美国国安局开发的逆向工程软件，好孩子不要用
 
-  1. **filezilla** - ([Repo](), [Home]()) ftp客户端
+  1. **filezilla** - ([Repo](https://github.com/botg/FileZilla3), [Home](https://filezilla-project.org/)) ftp客户端
 
-  1. **Locale Emulator** - ([Repo](), [Home]()) 用它来打开外语乱码游戏和软件
+  1. **UltraVNC** - ([Repo](https://github.com/ultravnc/UltraVNC), [Home](https://uvnc.com/)) windows VNC远程桌面查看器
 
-  1. **libreoffice全家桶** - ([Repo](), [Home]()) ms office开源平替，支持编辑pdf
+1. **MultiVNC** - ([Home](https://github.com/bk138/multivnc)) 安卓VNC远程桌面查看器
+
+  1. **Locale Emulator** - ([Repo](https://github.com/xupefei/Locale-Emulator)) 用它来打开外语乱码游戏和软件
+
+  1. **libreoffice全家桶** - ([Repo](https://github.com/LibreOffice), [Home](https://zh-cn.libreoffice.org/)) ms office开源平替，支持编辑pdf
