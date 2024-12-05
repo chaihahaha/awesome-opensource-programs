@@ -165,6 +165,8 @@
 
   1. **powertoys** - ([Repo](https://github.com/microsoft/PowerToys)) 工具软件集
 
+  1. **autohotkey** - ([Repo](https://github.com/AutoHotkey/AutoHotkey), [Home](https://www.autohotkey.com/)) windows键盘宏录制和脚本自动化软件
+
   1. **ffmpeg** - ([Repo](https://github.com/FFmpeg/FFmpeg), [Home](https://ffmpeg.org/)) 音视频编辑
 
  1. **shotcut** - ([Repo](https://github.com/mltframework/shotcut), [Home](https://www.shotcut.org/)) 视频编辑器
