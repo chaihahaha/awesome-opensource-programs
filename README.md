@@ -115,6 +115,8 @@
 
   1. **auxio** - ([Repo](https://github.com/OxygenCobalt/Auxio), [Home](https://f-droid.org/packages/org.oxycblt.auxio/)) 安卓音乐播放器
 
+1. **keymapper** - ([Repo](https://github.com/keymapperorg/KeyMapper), [Home](https://docs.keymapper.club)) 安卓键盘映射更改器，手机平板连的键盘有键位冲突时可以用这个
+
   1. **metro** - ([Repo](https://github.com/MuntashirAkon/Metro), [Home](https://f-droid.org/en/packages/io.github.muntashirakon.Music/)) 安卓音乐播放器
 
   1. **dawdreamer** - ([Repo](https://github.com/DBraun/DawDreamer)) 数字音频工作站（python）
