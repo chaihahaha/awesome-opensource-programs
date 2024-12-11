@@ -85,6 +85,10 @@
 
   1. **blender** - ([Repo](https://github.com/blender/blender), [Home](https://www.blender.org/)) 生成CAD模型编程语言和开发环境
 
+  1. **scilab** - ([Repo](https://github.com/scilab/scilab), [Home](https://www.scilab.org)) 法国INRIA开发的科学计算软件，包含统计，建模，仿真，信号处理等功能
+
+1. **OpenModelica** - ([Repo](https://github.com/OpenModelica/OpenModelica), [Home](https://openmodelica.org)) 用于动态系统建模仿真的编程语言
+
   1. **easyrpg** - ([Repo](https://github.com/EasyRPG/Player), [Home](https://easyrpg.org/player/downloads/)) rpgmaker2000游戏模拟器
 
   1. **retroarch** - ([Repo](https://github.com/libretro/RetroArch), [Home](https://www.retroarch.com/)) 经典老游戏机模拟器
