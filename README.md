@@ -137,6 +137,8 @@
 
   1. **tuxguitar** - ([Repo](https://github.com/helge17/tuxguitar)) guitar pro开源平替，支持gp5格式的吉他谱
 
+  1. **neothesia** - ([Repo](https://github.com/PolyMeilex/Neothesia) 钢琴音符下落效果视频生成器
+
   1. **geogebra** - ([Repo](https://github.com/geogebra/geogebra), [Home](https://www.geogebra.org/)) 开源几何画板数学软件
 
   1. **mathics** - ([Repo](https://github.com/mathics/Mathics), [Home](https://mathics.org/)) 符号计算数学软件，mathematica平替
