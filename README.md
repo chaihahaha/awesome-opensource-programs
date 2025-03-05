@@ -53,6 +53,8 @@
 
   1. **latex-ocr** - ([Repo](https://github.com/lukas-blecher/LaTeX-OCR), [Home](https://pypi.org/project/pix2tex/)) 手写符号转latex，mathpix平替
 
+ 1. **pdftotext** - ([Repo](https://github.com/jalan/pdftotext), [Home](https://pypi.org/project/pdftotext/)) pdf转txt文本
+
   1. **penrose** - ([Repo](https://github.com/penrose/penrose)) 数学示意图绘制
 
   1. **tikzedt** - ([Repo](https://github.com/mkantem/tikzedt), [Home](http://www.tikzedt.org/index.html)) tikz图表绘制工具，导出latex
