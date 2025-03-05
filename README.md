@@ -51,7 +51,7 @@
 
   1. **wavedrome** - ([Repo](https://github.com/wavedrom/wavedrom)) 时序示意图绘制
 
-  1. **detexify** - ([Repo](https://github.com/kirel/detexify), [Home](http://detexify.kirelabs.org/classify.html)) 手写符号转latex，mathpix平替
+  1. **latex-ocr** - ([Repo](https://github.com/lukas-blecher/LaTeX-OCR), [Home](https://pypi.org/project/pix2tex/)) 手写符号转latex，mathpix平替
 
   1. **penrose** - ([Repo](https://github.com/penrose/penrose)) 数学示意图绘制
 
