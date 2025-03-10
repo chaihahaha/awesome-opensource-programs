@@ -131,6 +131,8 @@
 
   1. **lmms** - ([Repo](https://github.com/LMMS/lmms), [Home](https://lmms.io/lsp/)) 数字音频工作站
 
+  1. **JUCE** - ([Repo](https://github.com/juce-framework/JUCE), [Home](https://juce.com/)) 数字音频开发平台
+
   1. **timidity** - ([Repo](https://github.com/feross/timidity), [Home](https://timidity.sourceforge.net/)) 合成器软件
 
   1. **audacity** - ([Repo](https://github.com/audacity/audacity), [Home](https://www.audacityteam.org/)) 录音音频编辑器
