@@ -139,6 +139,8 @@
 
   1. **musescore** - ([Repo](https://github.com/musescore/MuseScore), [Home](https://musescore.org/zh-hans/download)) 乐谱软件
 
+  1. **music21** - ([Repo](https://github.com/cuthbertLab/music21), [Home](https://www.music21.org/music21docs/)) 音乐理论分析和计算音乐学软件
+
   1. **tuxguitar** - ([Repo](https://github.com/helge17/tuxguitar)) guitar pro开源平替，支持gp5格式的吉他谱
 
   1. **neothesia** - ([Repo](https://github.com/PolyMeilex/Neothesia)) 钢琴音符下落效果视频生成器
