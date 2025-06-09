@@ -41,6 +41,8 @@
 
   1. **flameshot** - ([Repo](https://github.com/flameshot-org/flameshot), [Home](https://flameshot.org/)) 支持截图悬浮显示的截图工具
 
+  1. **ShareX** - ([Repo](https://github.com/ShareX/ShareX), [Home](https://getsharex.com)) 截图+录屏工具
+
   1. **llama.cpp** - ([Repo](https://github.com/ggerganov/llama.cpp)) 本地高速运行开源大模型
 
   1. **maid app** - ([Repo](https://github.com/Mobile-Artificial-Intelligence/maid)) 安卓移动端本地运行开源大模型
