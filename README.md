@@ -8,8 +8,9 @@
 
  1. **OpenCamera** - ([Repo](https://sourceforge.net/projects/opencamera/)) 开源安卓相机APP，支持保存无损RAW格式，HDR等
 
-
   1. **7zip** - ([Repo](https://sourceforge.net/projects/sevenzip/files/7-Zip/), [Home](https://7-zip.org/)) 压缩软件
+
+  1. **PeaZip** - ([Repo](https://github.com/peazip/PeaZip), [Home](https://peazip.github.io/)) 压缩软件
 
   1. **motrix** - ([Repo](https://github.com/agalwood/Motrix)) 开源高速下载器
 
@@ -43,6 +44,8 @@
 
   1. **ShareX** - ([Repo](https://github.com/ShareX/ShareX), [Home](https://getsharex.com)) 截图+录屏工具
 
+  1. **Kap** - ([Repo](https://github.com/wulkano/Kap), [Home](https://getkap.co/)) 截图+录屏工具
+
   1. **llama.cpp** - ([Repo](https://github.com/ggerganov/llama.cpp)) 本地高速运行开源大模型
 
   1. **maid app** - ([Repo](https://github.com/Mobile-Artificial-Intelligence/maid)) 安卓移动端本地运行开源大模型
@@ -50,6 +53,8 @@
   1. **ChatterUI** - ([Repo](https://github.com/Vali-98/ChatterUI)) 安卓移动端本地运行开源大模型
 
   1. **stable diffusion webui** - ([Repo](https://github.com/AUTOMATIC1111/stable-diffusion-webui)) 本地运行生成式AI绘画
+
+  1. **upscayl** - ([Repo](https://github.com/upscayl/upscayl)) 本地运行AI超分辨
 
   1. **wavedrome** - ([Repo](https://github.com/wavedrom/wavedrom)) 时序示意图绘制
 
@@ -119,6 +124,8 @@
 
   1. **musikcube** - ([Repo](https://github.com/clangen/musikcube)) 黑客风音乐播放器
 
+  1. **MusicFree** - ([Repo](https://github.com/maotoumao/MusicFree)) 安卓音乐播放器
+
   1. **phonograph+** - ([Repo](https://github.com/chr56/Phonograph_Plus)) 安卓音乐播放器
 
   1. **auxio** - ([Repo](https://github.com/OxygenCobalt/Auxio), [Home](https://f-droid.org/packages/org.oxycblt.auxio/)) 安卓音乐播放器
@@ -160,6 +167,8 @@
   1. **xournalpp** - ([Repo](https://github.com/xournalpp/xournalpp), [Home](https://xournalpp.github.io/)) pdf手写笔记软件
 
   1. **vnote** - ([Repo](https://github.com/vnotex/vnote), [Home](https://www.vnote.info/)) markdown笔记软件（桌面端）
+
+  1. **AFFiNE** - ([Repo](https://github.com/toeverything/AFFiNE), [Home](https://affine.pro/)) 类notion笔记软件（桌面端）
 
   1. **markor** - ([Repo](https://github.com/gsantner/markor)) 安卓markdown编辑器
 
@@ -203,7 +212,9 @@
 
   1. **MultiVNC** - ([Home](https://github.com/bk138/multivnc)) 安卓VNC远程桌面查看器
 
-1. **zerotier** - ([Repo](https://github.com/zerotier/ZeroTierOne), [Home](https://zerotier.com)) 内网穿透，让你的设备处于同一虚拟局域网
+  1. **zerotier** - ([Repo](https://github.com/zerotier/ZeroTierOne), [Home](https://zerotier.com)) 内网穿透，让你的设备处于同一虚拟局域网
+
+  1. **seafile** - ([Repo](https://github.com/haiwen/seafile), [Home](http://seafile.com/)) 自建网盘，支持知识库管理和markdown
 
   1. **phyphox** - ([Repo](https://github.com/phyphox/phyphox-android)) 让你的安卓手机传感器成为物理实验仪器
 
