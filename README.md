@@ -96,7 +96,7 @@
 
   1. **scilab** - ([Repo](https://github.com/scilab/scilab), [Home](https://www.scilab.org)) 法国INRIA开发的科学计算软件，包含统计，建模，仿真，信号处理等功能
 
-1. **OpenModelica** - ([Repo](https://github.com/OpenModelica/OpenModelica), [Home](https://openmodelica.org)) 用于动态系统建模仿真的编程语言
+  1. **OpenModelica** - ([Repo](https://github.com/OpenModelica/OpenModelica), [Home](https://openmodelica.org)) 用于动态系统建模仿真的编程语言
 
   1. **easyrpg** - ([Repo](https://github.com/EasyRPG/Player), [Home](https://easyrpg.org/player/downloads/)) rpgmaker2000游戏模拟器
 
@@ -124,7 +124,7 @@
 
   1. **musikcube** - ([Repo](https://github.com/clangen/musikcube)) 黑客风音乐播放器
 
-  1. **MusicFree** - ([Repo](https://github.com/maotoumao/MusicFree)) 安卓音乐播放器
+  1. **MusicFree** - ([Repo](https://github.com/maotoumao/MusicFree), [Home](https://musicfree.catcat.work/)) 安卓音乐播放器
 
   1. **phonograph+** - ([Repo](https://github.com/chr56/Phonograph_Plus)) 安卓音乐播放器
 
