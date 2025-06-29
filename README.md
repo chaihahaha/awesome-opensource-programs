@@ -122,7 +122,7 @@
 
   1. **strawberry** - ([Repo](https://github.com/strawberrymusicplayer/strawberry), [Home](https://www.strawberrymusicplayer.org)) 音乐播放器
 
-  1. **musikcube** - ([Repo](https://github.com/clangen/musikcube)) 黑客风音乐播放器
+  1. **musikcube** - ([Repo](https://github.com/clangen/musikcube), [Home](https://musikcube.com/)) 黑客风音乐播放器
 
   1. **MusicFree** - ([Repo](https://github.com/maotoumao/MusicFree), [Home](https://musicfree.catcat.work/)) 安卓音乐播放器
 
