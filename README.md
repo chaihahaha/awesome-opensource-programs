@@ -168,6 +168,9 @@
 
   1. **vnote** - ([Repo](https://github.com/vnotex/vnote), [Home](https://www.vnote.info/)) markdown笔记软件（桌面端）
 
+
+  1. **rnote** - ([Repo](https://github.com/flxzt/rnote), [Home](https://rnote.flxzt.net/)) pdf手写笔记软件（桌面端）
+
   1. **AFFiNE** - ([Repo](https://github.com/toeverything/AFFiNE), [Home](https://affine.pro/)) 类notion笔记软件（桌面端）
 
   1. **markor** - ([Repo](https://github.com/gsantner/markor)) 安卓markdown编辑器
