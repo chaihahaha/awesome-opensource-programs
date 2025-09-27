@@ -88,6 +88,8 @@
 
   1. **freecad** - ([Repo](https://github.com/FreeCAD/FreeCAD), [Home](https://www.freecad.org)) CAD模型编辑器
 
+  1. **kicad** - ([Repo](https://github.com/KiCad/kicad-source-mirror), [Home](https://www.kicad.org/)) PCB电路设计CAD软件
+
   1. **openscad** - ([Repo](https://github.com/openscad/openscad), [Home](https://openscad.org/)) 生成CAD模型的编程语言和开发环境
 
   1. **qcad** - ([Repo](https://github.com/qcad/qcad)) 2D CAD编辑器
