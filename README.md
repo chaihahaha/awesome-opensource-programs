@@ -18,6 +18,8 @@
 
   1. **LocalSend** - ([Repo](https://github.com/localsend/localsend)) 手机热点/局域网高速文件传输
 
+  1. **flying carpet** - ([Repo](https://github.com/spieglt/FlyingCarpet)) 不需要设置局域网的跨平台文件传输软件
+
   1. **trime** - ([Repo](https://github.com/osfans/trime)) 高度可定制手机输入法
 
   1. **rime** - ([Repo](https://github.com/rime/weasel)) 高度可定制电脑输入法
@@ -90,6 +92,8 @@
 
   1. **kicad** - ([Repo](https://github.com/KiCad/kicad-source-mirror), [Home](https://www.kicad.org/)) PCB电路设计CAD软件
 
+  1. **OCCT** - ([Repo](https://github.com/Open-Cascade-SAS/OCCT), [Home](https://dev.opencascade.org/)) 3D打印CAD软件
+
   1. **openscad** - ([Repo](https://github.com/openscad/openscad), [Home](https://openscad.org/)) 生成CAD模型的编程语言和开发环境
 
   1. **qcad** - ([Repo](https://github.com/qcad/qcad)) 2D CAD编辑器
@@ -153,6 +157,8 @@
   1. **music21** - ([Repo](https://github.com/cuthbertLab/music21), [Home](https://www.music21.org/music21docs/)) 音乐理论分析和计算音乐学软件
 
   1. **tuxguitar** - ([Repo](https://github.com/helge17/tuxguitar)) guitar pro开源平替，支持gp5格式的吉他谱
+
+  1. **midistrum** - ([Repo](https://github.com/guysoft/midistrum)) 演奏和弦及琶音的安卓掌上乐器
 
   1. **neothesia** - ([Repo](https://github.com/PolyMeilex/Neothesia)) 钢琴音符下落效果视频生成器
 
