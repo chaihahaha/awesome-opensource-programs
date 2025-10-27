@@ -66,6 +66,8 @@
 
   1. **penrose** - ([Repo](https://github.com/penrose/penrose)) 数学示意图绘制
 
+  1. **excalidraw** - ([Repo](https://github.com/excalidraw/excalidraw), [Home](https://excalidraw.com/)) 示意图绘制
+
   1. **tikzedt** - ([Repo](https://github.com/mkantem/tikzedt), [Home](http://www.tikzedt.org/index.html)) tikz图表绘制工具，导出latex
 
   1. **mockingbird** - ([Repo](https://github.com/babysor/MockingBird)) AI拟声
