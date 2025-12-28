@@ -82,6 +82,8 @@
 
   1. **krita** - ([Repo](https://github.com/KDE/krita), [Home](https://krita.org/en/)) 绘画软件
 
+  1. **mypaint** - ([Repo](https://github.com/mypaint/mypaint), [Home](https://www.mypaint.app/)) 简洁手绘软件
+
   1. **aseprite** - ([Repo](https://github.com/aseprite/aseprite), [Home](https://www.aseprite.org/)) 像素画绘画软件
 
   1. **inkscape** - ([Repo](https://github.com/inkscape/inkscape), [Home](https://www.inkscape.org/)) 矢量图绘画软件
