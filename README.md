@@ -50,6 +50,8 @@
 
   1. **llama.cpp** - ([Repo](https://github.com/ggerganov/llama.cpp)) 本地高速运行开源大模型
 
+  1. **opencode** - ([Repo](https://github.com/anomalyco/opencode/), [Home](https://opencode.ai/)) 人工智能代码编程调试助手智能体
+
   1. **maid app** - ([Repo](https://github.com/Mobile-Artificial-Intelligence/maid)) 安卓移动端本地运行开源大模型
 
   1. **ChatterUI** - ([Repo](https://github.com/Vali-98/ChatterUI)) 安卓移动端本地运行开源大模型
@@ -77,6 +79,10 @@
   1. **luna translator** - ([Repo](https://github.com/HIllya51/LunaTranslator)) galgame翻译器（python）
 
   1. **ONS阅读器** - ([Repo](https://github.com/YuriSizuku/OnscripterYuri)) 互动小说阅读器
+
+  1. **mihon** - ([Repo](https://github.com/mihonapp/mihon)) 安卓漫画阅读器
+
+  1. **aniyomi** - ([Repo](https://github.com/aniyomiorg/aniyomi)) 安卓漫画动画阅读器
 
   1. **uEmuera** - ([Repo](https://github.com/xerysherry/uEmuera)) era文字冒险游戏引擎
 
@@ -120,6 +126,8 @@
 
   1. **tox.chat** - ([Repo](https://github.com/evilcorpltd/aTox), [Home](https://tox.chat/)) 无服务器去中心化P2P加密聊天软件
 
+  1. **Signal** - ([Repo](https://github.com/signalapp/Signal-Android), [Home](https://signal.org/)) 安全加密聊天软件
+
   1. **LBRY** - ([Repo](https://github.com/lbryio/lbry-desktop), [Home](https://lbry.com/)) 区块链视频共享软件
 
   1. **zeronet** - ([Repo](https://github.com/HelloZeroNet/ZeroNet), [Home](https://zeronet.io/zh)) 区块链去中心化网络浏览器
@@ -158,6 +166,8 @@
 
   1. **musescore** - ([Repo](https://github.com/musescore/MuseScore), [Home](https://musescore.org/zh-hans/download)) 乐谱软件
 
+  1. **lilypond** - ([Repo](https://github.com/lilypond/lilypond), [Home](https://lilypond.org/)) 可读性高的电子乐谱编码软件
+
   1. **music21** - ([Repo](https://github.com/cuthbertLab/music21), [Home](https://www.music21.org/music21docs/)) 音乐理论分析和计算音乐学软件
 
   1. **tuxguitar** - ([Repo](https://github.com/helge17/tuxguitar)) guitar pro开源平替，支持gp5格式的吉他谱
@@ -187,7 +197,7 @@
 
   1. **markor** - ([Repo](https://github.com/gsantner/markor)) 安卓markdown编辑器
 
-  1. **marktext** - ([Repo](https://github.com/marktext/marktext)) markdown编辑器（桌面端）
+  1. **marktext** - ([Repo](https://github.com/marktext/marktext)) markdown编辑器（桌面端typora平替）
 
   1. **joplin** - ([Repo](https://github.com/laurent22/joplin), [Home](https://joplinapp.org/)) evernote平替（全平台）
 
@@ -217,9 +227,11 @@
 
   1. **f-droid** - ([Repo](https://github.com/f-droid/fdroidclient), [Home](https://f-droid.org/)) 安卓开源软件应用商店
 
-  1. **wireshark** - ([Repo](https://github.com/wireshark/wireshark), [Home](https://www.wireshark.org/download.html)) 抓包工具，好孩子不要用
+  1. **wireshark** - ([Repo](https://github.com/wireshark/wireshark), [Home](https://www.wireshark.org/download.html)) 抓包工具
 
-  1. **ghidra** - ([Repo](https://github.com/NationalSecurityAgency/ghidra)) 美国国安局开发的逆向工程软件，好孩子不要用
+  1. **ghidra** - ([Repo](https://github.com/NationalSecurityAgency/ghidra)) 美国国安局开发的逆向工程软件
+
+  1. **cutter** - ([Repo](https://github.com/rizinorg/cutter)) 基于[rizin](https://github.com/rizinorg/rizin)的逆向工程软件
 
   1. **filezilla** - ([Repo](https://svn.filezilla-project.org/svn/FileZilla3/trunk), [Home](https://filezilla-project.org/)) ftp客户端
 
@@ -227,7 +239,11 @@
 
   1. **MultiVNC** - ([Home](https://github.com/bk138/multivnc)) 安卓VNC远程桌面查看器
 
+  1. **Bananas** - ([Home](https://github.com/mistweaverco/bananas)) 跨平台屏幕共享
+
   1. **zerotier** - ([Repo](https://github.com/zerotier/ZeroTierOne), [Home](https://zerotier.com)) 内网穿透，让你的设备处于同一虚拟局域网
+
+  1. **tailscale** - ([Repo](https://github.com/tailscale/tailscale), [Home](https://tailscale.com/)) 基于WireGuard的内网穿透，让你的设备处于同一虚拟局域网
 
   1. **seafile** - ([Repo](https://github.com/haiwen/seafile), [Home](http://seafile.com/)) 自建网盘，支持知识库管理和markdown
 
