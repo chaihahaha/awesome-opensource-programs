@@ -227,6 +227,10 @@
 
   1. **draw.io** - ([Repo](https://github.com/jgraph/drawio), [Home](https://www.draw.io/)) 画原理图，流程图，UML图等
 
+  1. **quiver** - ([Repo](https://github.com/varkor/quiver), [Home](https://q.uiver.app)) 交换图绘图导出tikz
+
+  1. **pix2text** - ([Repo](https://github.com/breezedeus/pix2text), [Home](https://pix2text.readthedocs.io/)) 识别图片公式导出latex
+
   1. **f-droid** - ([Repo](https://github.com/f-droid/fdroidclient), [Home](https://f-droid.org/)) 安卓开源软件应用商店
 
   1. **wireshark** - ([Repo](https://github.com/wireshark/wireshark), [Home](https://www.wireshark.org/download.html)) 抓包工具
