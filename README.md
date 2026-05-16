@@ -229,6 +229,8 @@
 
   1. **quiver** - ([Repo](https://github.com/varkor/quiver), [Home](https://q.uiver.app)) 交换图绘图导出tikz
 
+  1. **circuit2tikz** - ([Repo](https://github.com/Circuit2TikZ/CircuiTikZ-Designer), [Home](https://circuit2tikz.tf.fau.de/designer/)) 电路图绘图导出tikz
+
   1. **pix2text** - ([Repo](https://github.com/breezedeus/pix2text), [Home](https://pix2text.readthedocs.io/)) 识别图片公式导出latex
 
   1. **f-droid** - ([Repo](https://github.com/f-droid/fdroidclient), [Home](https://f-droid.org/)) 安卓开源软件应用商店
