@@ -34,6 +34,8 @@
 
   1. **koreader** - ([Repo](https://github.com/koreader/koreader), [Home](http://koreader.rocks/)) 手机电子书阅读器
 
+  1. **readest** - ([Repo](https://github.com/readest/readest), [Home](https://readest.com/)) 跨平台电子书阅读器，类似微信读书
+
   1. **sumatrapdf** - ([Repo](https://github.com/sumatrapdfreader/sumatrapdf), [Home](https://www.sumatrapdfreader.org/free-pdf-reader)) windows电子书阅读器
 
   1. **RTranslator** - ([Repo](https://github.com/niedev/RTranslator)) 开源AI翻译软件，内置离线AI，支持实时语音和文本翻译
