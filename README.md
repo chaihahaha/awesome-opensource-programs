@@ -74,6 +74,14 @@
 
   1. **tikzedt** - ([Repo](https://github.com/mkantem/tikzedt), [Home](http://www.tikzedt.org/index.html)) tikz图表绘制工具，导出latex
 
+  1. **draw.io** - ([Repo](https://github.com/jgraph/drawio), [Home](https://www.draw.io/)) 画原理图，流程图，UML图等
+
+  1. **quiver** - ([Repo](https://github.com/varkor/quiver), [Home](https://q.uiver.app)) 交换图绘图导出tikz
+
+  1. **circuit2tikz** - ([Repo](https://github.com/Circuit2TikZ/CircuiTikZ-Designer), [Home](https://circuit2tikz.tf.fau.de/designer/)) 电路图绘图导出tikz
+
+  1. **pix2text** - ([Repo](https://github.com/breezedeus/pix2text), [Home](https://pix2text.readthedocs.io/)) 识别图片公式导出latex
+
   1. **mockingbird** - ([Repo](https://github.com/babysor/MockingBird)) AI拟声
 
   1. **misaka translator** - ([Repo](https://github.com/hanmin0822/MisakaTranslator/)) galgame翻译器
@@ -225,14 +233,6 @@
 
  1. **shotcut** - ([Repo](https://github.com/mltframework/shotcut), [Home](https://www.shotcut.org/)) 视频编辑器
 
-  1. **draw.io** - ([Repo](https://github.com/jgraph/drawio), [Home](https://www.draw.io/)) 画原理图，流程图，UML图等
-
-  1. **quiver** - ([Repo](https://github.com/varkor/quiver), [Home](https://q.uiver.app)) 交换图绘图导出tikz
-
-  1. **circuit2tikz** - ([Repo](https://github.com/Circuit2TikZ/CircuiTikZ-Designer), [Home](https://circuit2tikz.tf.fau.de/designer/)) 电路图绘图导出tikz
-
-  1. **pix2text** - ([Repo](https://github.com/breezedeus/pix2text), [Home](https://pix2text.readthedocs.io/)) 识别图片公式导出latex
-
   1. **f-droid** - ([Repo](https://github.com/f-droid/fdroidclient), [Home](https://f-droid.org/)) 安卓开源软件应用商店
 
   1. **wireshark** - ([Repo](https://github.com/wireshark/wireshark), [Home](https://www.wireshark.org/download.html)) 抓包工具
@@ -245,9 +245,11 @@
 
   1. **UltraVNC** - ([Repo](https://github.com/ultravnc/UltraVNC), [Home](https://uvnc.com/)) windows VNC远程桌面查看器
 
-  1. **MultiVNC** - ([Home](https://github.com/bk138/multivnc)) 安卓VNC远程桌面查看器
+  1. **MultiVNC** - ([Repo](https://github.com/bk138/multivnc)) 安卓VNC远程桌面查看器
 
-  1. **Bananas** - ([Home](https://github.com/mistweaverco/bananas)) 跨平台屏幕共享
+  1. **Bananas** - ([Repo](https://github.com/mistweaverco/bananas)) 跨平台屏幕共享
+
+  1. **scrcpy** - ([Repo](https://github.com/Genymobile/scrcpy), [Home](https://scrcpyapp.org)) 在电脑端显示和操作手机
 
   1. **zerotier** - ([Repo](https://github.com/zerotier/ZeroTierOne), [Home](https://zerotier.com)) 内网穿透，让你的设备处于同一虚拟局域网
 
