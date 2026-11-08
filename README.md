@@ -264,3 +264,5 @@
   1. **Locale Emulator** - ([Repo](https://github.com/xupefei/Locale-Emulator)) 用它来打开外语乱码游戏和软件
 
   1. **libreoffice全家桶** - ([Repo](https://github.com/LibreOffice), [Home](https://zh-cn.libreoffice.org/)) ms office开源平替，支持编辑pdf
+
+  1. **LatchLayout** - ([Repo](https://github.com/stanczykwyatt/latchlayout)) Windows 11 工作区启动工具：长按自定义键盘键或鼠标按钮，打开应用、浏览器配置文件及网址，并按显示器布局排列窗口（预览版）。
